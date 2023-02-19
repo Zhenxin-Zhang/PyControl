@@ -1,5 +1,3 @@
 # Welcome to PyControl
 
-Py-Control, the ultimate web blocker.
-
-Boost your productivity with one hit on 'enter' !
+PyControl is the most brutal and effective self-producity tool you can find. Make it yours and let it be your manifesto of productivity.
