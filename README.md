@@ -15,7 +15,7 @@ P.S. Let me know if you need to get those websites back, that's still possible ;
 
 <img width="561" alt="Screenshot 2023-03-23 at 5 08 25 PM" src="https://user-images.githubusercontent.com/44841991/227361991-32bcf434-d743-4832-971e-18ff50ef7a93.png">
 
-## see our PyControl in action:
+## See our PyControl in action:
 
 https://www.youtube.com/watch?v=sNQMnnubOd4&ab_channel=Shrimpo
 
