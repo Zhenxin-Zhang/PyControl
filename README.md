@@ -2,4 +2,7 @@
 
 PyControl smashes any distracting website forever! 
 
-Make it yours and it'll be your manifesto of productivity.
+Created by someone who doesn't have a cell phone with ❤️
+
+- Data Analysis on how much time people spend on distracting websites
+
