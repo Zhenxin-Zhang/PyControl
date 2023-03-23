@@ -7,7 +7,7 @@ Spending too much time browsing? Py-Control smashes the websites forever. No mat
 P.S. Let me know if you need to get those websites back, that's still possible ;) email: zhenxinz12@gmail.com
 
 
-HOW TO USE:
+## HOW TO USE:
 1. open Terminal
 2. type: sudo python3 '<your_file_path>/py_control.py' 
 3. input your computer password
@@ -15,7 +15,7 @@ HOW TO USE:
 
 <img width="561" alt="Screenshot 2023-03-23 at 5 08 25 PM" src="https://user-images.githubusercontent.com/44841991/227361991-32bcf434-d743-4832-971e-18ff50ef7a93.png">
 
-see our PyControl in action:
+## see our PyControl in action:
 
 https://www.youtube.com/watch?v=sNQMnnubOd4&ab_channel=Shrimpo
 
