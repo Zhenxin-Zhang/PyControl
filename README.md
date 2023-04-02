@@ -21,5 +21,5 @@ https://www.youtube.com/watch?v=sNQMnnubOd4&ab_channel=Shrimpo
 
 - Loved by members in the Quiet Pages (Silent Book Club)
 
-- Created by someone who doesn't have a cell phone with ❤️
+- Created by someone without a cell phone but with ❤️
 
